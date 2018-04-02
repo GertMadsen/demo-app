@@ -39,6 +39,9 @@ const Home = () => (
     <p>I am a student at Copenhagen Business Academy 
       and I study Computer Science and are presently
       on my 3rd semester.
+      <br/><br/>
+      This project can be cloned from github:<br/> 
+      GitHub link : <a href="https://github.com/GertMadsen/demo-app">demo-app</a>
     </p>
   </div>
 );
